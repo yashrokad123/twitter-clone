@@ -1,0 +1,7 @@
+.con{
+    display: flex;
+    justify-content: space-between;
+}
+ul,li{
+    text-decoration: none;
+}
